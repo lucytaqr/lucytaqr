@@ -8,6 +8,14 @@ Therefore, I have taken many web programming courses and would like to utilize m
 
 Let's connect or you can contact me on [Linkedin](https://www.linkedin.com/in/lucytaqr/)!
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/lucytaqr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucytaqr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucytaqr&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **lucytaqr/lucytaqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
